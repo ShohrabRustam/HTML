@@ -1,0 +1,37 @@
+difference between crptography and technography 
+hide in technography 
+no need of key in technography
+
+
+
+stream cyperr and block cyper 
+ boths are depend on bits 
+stream cryptography 
+
+plan
+key (exor)
+.................................
+
+................................
+key(exor)
+....................................
+plan massege 
+.................................
+
+conver into bits 
+plan text exore with a new bits convert in cyber text 
+need a bit streem both end like recever end and sender end  use e
+
+
+Block cyber 
+  plan text convert into small boxes equal 
+  length of key depend upon algorithms
+.......   ......   .......  .......
+4 bits    4 bits    4 bits  4 bits   (Plan text into blocks )
+......    .......   ....... .......
+
+....................................
+16 bits(sum of all blocks bits) Key 
+.....................................
+
+BES method(discuss tomorrow)
